@@ -1,4 +1,7 @@
 # UOCIS322 - Project 2 #
+Name: Austin Warren
+Info: awarren3@uoregon.edu
+Description: Building a more advanced web server using Docker/flask
 
 This project will get you started with Docker and Flask. You need to have Docker set up on your machine to complete this project. You can alternatively use the machine we talked about in class.
 
